@@ -1,1 +1,2 @@
-config-test.yml
+config:
+   info: "1234567"
